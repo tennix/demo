@@ -1,4 +1,4 @@
-language: go
+language: rust
 
 script:
-- echo "hello"
+- cargo run
